@@ -1,5 +1,14 @@
 # DVCS-Exercise
 
+# Matching
+Match the following descriptions of the GitHub Desktop user-interface with the labels on the screen-shot. Place your answers in the ReadMe.md file of your repository for this exercise. Clearly identify your question number and your answer.
+
+1. Commits History/Changes **F**
+2. Sync (push/pull) with Origin **D**
+3. Alterations of committed item **E**
+4. General Operational Tools for Maintenance **B**
+5. Change branch **C**
+6. Current (selection of) repository **A**
 
 # Short Answer & Multiple Choice
 Supply or identify the following short answer/multiple-choice questions. Place your answers in the ReadMe.md file of your repository for this exercise. Clearly identify your question number and your answer.
