@@ -36,7 +36,7 @@ Supply or identify the following short answer/multiple-choice questions. Place y
   - clone
 9. When you make a local copy of a GitHub repository, you are effectively ______ that repository.
   - forking
-  - cloning
+  - **cloning**
   - copying
   - replacing
 10. What is the order of Git tasks that are done when performing a sync in GitHub Desktop?
@@ -55,7 +55,7 @@ Supply or identify the following short answer/multiple-choice questions. Place y
   - **git init**
 13. Which command is used to stage files for a commit?
   - git pull
-  - git add .
+  - **git add .**
   - git push
   - git init
 14. Which of the following best describes what it means to stage files for a commit?
