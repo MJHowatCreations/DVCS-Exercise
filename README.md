@@ -32,7 +32,7 @@ Supply or identify the following short answer/multiple-choice questions. Place y
 8. The remote repository that you synchronize with referred to as _________.
   - upstream
   - downstream
-  - origin
+  - **origin**
   - clone
 9. When you make a local copy of a GitHub repository, you are effectively ______ that repository.
   - forking
@@ -44,7 +44,7 @@ Supply or identify the following short answer/multiple-choice questions. Place y
   - fetch, merge, push
   - push, pull, clean
 11. The git pull command is equivalent to _______.
-  - git fetch and then git merge
+  - **git fetch and then git merge**
   - git pull and then git fetch
   - git get and then git pull
   - git fetch and then git pull
@@ -52,7 +52,7 @@ Supply or identify the following short answer/multiple-choice questions. Place y
   - git repo
   - git pull
   - git clone
-  - git init
+  - **git init**
 13. Which command is used to stage files for a commit?
   - git pull
   - git add .
