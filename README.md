@@ -41,7 +41,7 @@ Supply or identify the following short answer/multiple-choice questions. Place y
   - replacing
 10. What is the order of Git tasks that are done when performing a sync in GitHub Desktop?
   - push, fetch, pull
-  - fetch, merge, push
+  - **fetch, merge, push**
   - push, pull, clean
 11. The git pull command is equivalent to _______.
   - **git fetch and then git merge**
@@ -60,17 +60,17 @@ Supply or identify the following short answer/multiple-choice questions. Place y
   - git init
 14. Which of the following best describes what it means to stage files for a commit?
   - To stage files for a commit means to remove them from tracking in preparation for a commit.
-  - Staging files for a commit means to identify files that may be new, modified, or deleted and marking those as being ready to commit.
+  - **Staging files for a commit means to identify files that may be new, modified, or deleted and marking those as being ready to commit.**
   - Staging files for a commit means that the files are stashed so that they will be remembered after performing a pull and push.
   - To stage files for a commit means to change the files prior to committing them.
 15. Which command saves a snapshot of the changes to files in the repository?
   - git commit -m "Commit message"
-  - git save -m "Save message"
+  - **git save -m "Save message"**
   - git push
   - git pull
 16. Which of the following best describes what git commit does?
   - Confirms the deletion of files in the repository history.
   - Prepare files for being added (tracked) in the repository.
   - Record a snapshot of the changes that have happened in the repository since the last commit.
-  - It performs transactional processing to synchronize remote and local repositories.
+  - **It performs transactional processing to synchronize remote and local repositories.**
   - Reverses the previous snapshot of the state of the repository so that you can "undo" the edits of your source code.
